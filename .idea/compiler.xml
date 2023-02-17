@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spi-service-oracle" />
+        <module name="spi-service-mysql" />
+        <module name="spi-app-server" />
+        <module name="spi-service-interface" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
